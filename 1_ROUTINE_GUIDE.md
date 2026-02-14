@@ -9,9 +9,9 @@
 2. **Vitamin C** - The Ordinary 23% (pea-sized, dry face only, wait 2-3 min)
 3. **Niacinamide** - CeraVe PM Lotion (face + neck, wait 1-2 min)
 4. **Sunscreen** - CeraVe Mineral SPF 30 (2 fingers worth, blend well)
-5. **Lip SPF** - Eucerin Lip Balm SPF 30 (thin layer)
+5. **Lip SPF** - Eucerin Lip Active SPF 20 (thin layer)
 
-**⚠️ Reapply sunscreen every 2hrs if outdoors 10am-4pm**
+**⚠️ Until sunscreen arrives:** Use physical protection (hat/umbrella), avoid sun 10am-4pm
 
 ---
 

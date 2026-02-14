@@ -58,13 +58,27 @@
 
 ---
 
-### 6. SUNSCREEN (AM Only)
-**Product:** CeraVe Hydrating Mineral Sunscreen SPF 30  
-**Price:** €15-18  
-**Where:** DM  
-**Key:** 100% Mineral (Zinc + Titanium), no chemical filters, niacinamide bonus  
-**Note:** White cast = normal, proves it's working  
-**Alt:** La Roche-Posay Anthelios Mineral (€18-22) - tinted
+### 6. SUNSCREEN (AM Only) - ORDER ONLINE
+**Status:** None available in stores currently - order from list below
+
+**RECOMMENDED OPTIONS (All Mineral SPF 30+):**
+
+| Rank | Product | Price | Where | Key Features |
+|------|---------|-------|-------|--------------|
+| **1** | La Roche-Posay Anthelios Mineral One SPF 50+ | €18-22 | Douglas/Amazon | Best availability, tinted options, high SPF |
+| **2** | Altruist Dermatologist SPF 50 | €9 | Amazon | Best value, derm-developed, ships fast |
+| **3** | Eucerin Sun Sensitive Protect Mineral SPF 50 | €18-20 | Apotheke | Medical-grade, sensitive skin |
+| **4** | Avene Solaire Mineral SPF 50+ | €15-18 | Apotheke/DM | French pharmacy, very gentle |
+| **5** | Daylong Extreme Mineral SPF 50+ | €15-18 | Apotheke | Liposomal tech, better texture |
+| **6** | Ultrasun Mineral SPF 50 | €20-25 | Amazon | Premium, once-daily application |
+
+**ORDER TODAY:** Altruist or La Roche-Posay ship 1-2 days
+
+**Until Arrives:**
+- Use hat + UV umbrella
+- Avoid sun 10am-4pm
+- Stay in shade
+- Physical protection > chemical sunscreen
 
 ---
 
@@ -82,13 +96,14 @@
 ### 8. LIP CARE
 
 **Daytime SPF:**
-**Product:** Eucerin Sun Protection Lip Balm SPF 30  
+**Product:** Eucerin Lip Active SPF 20  
 **Price:** €6-8  
 **Where:** Apotheke  
-**Key:** Mineral SPF for lips, no chemical filters  
+**Key:** SPF 20 (lower than ideal 30), basic protection + Panthenol  
+**Note:** SPF 20 acceptable for daily use, reapply frequently if outdoors  
 **Usage:** AM, reapply after eating
 
-**Day & Night:**
+**Night & Repair:**
 **Product:** Eucerin Lip Repair  
 **Price:** €6-8  
 **Where:** Apotheke  
@@ -105,12 +120,14 @@
 | CeraVe Cleanser | €11 |
 | CeraVe PM Lotion | €13 |
 | CeraVe Cream | €13 |
-| CeraVe Sunscreen | €16 |
+| Sunscreen (order online) | €9-22 |
 | The Ordinary Vit C | €7 |
 | The Ordinary HA | €7 |
 | CurrentBody LED Mask | €325 |
-| Eucerin Lip SPF | €7 |
+| Eucerin Lip Active | €7 |
 | Eucerin Lip Repair | €7 |
+
+**Note:** SPF 20 on lips is lower than ideal SPF 30, but acceptable for daily use. Use physical protection (hat) for additional coverage.
 | **TOTAL** | **€406** |
 
 ### Monthly Maintenance (€25-30)
