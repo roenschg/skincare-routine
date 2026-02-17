@@ -5,23 +5,60 @@
 
 ## 🌅 MORNING ROUTINE (5-7 min)
 
-1. **Cleanse** - CeraVe Hydrating Cleanser (30 sec, rinse, pat dry)
-2. **Vitamin C** - The Ordinary 23% (pea-sized, dry face only, wait 2-3 min)
-3. **Niacinamide** - CeraVe PM Lotion (face + neck, wait 1-2 min)
-4. **Sunscreen** - CeraVe Mineral SPF 30 (2 fingers worth, blend well)
-5. **Lip SPF** - Eucerin Lip Active SPF 20 (thin layer)
+**Skin State:** Follow wet/dry instructions for each step
+
+1. **Cleanse** - CeraVe Hydrating Cleanser
+   - Apply to **dry or damp skin**
+   - Massage 30 seconds
+   - Rinse with water
+   - **Pat dry** with towel
+
+2. **Vitamin C** - The Ordinary 23%
+   - Apply to **COMPLETELY DRY skin** (critical)
+   - Water oxidizes Vitamin C
+   - Wait 2-3 min to absorb
+   - Pea-sized amount
+
+3. **Niacinamide** - CeraVe PM Lotion
+   - Apply to **dry skin**
+   - Face + neck
+   - Wait 1-2 min
+
+4. **Sunscreen** - CeraVe Mineral SPF 30
+   - Apply to **dry skin**
+   - 2 fingers worth
+   - Blend well
+
+5. **Lip SPF** - Eucerin Lip Active SPF 20
+   - Apply to **dry lips**
+   - Thin layer
 
 **⚠️ Until sunscreen arrives:** Use physical protection (hat/umbrella), avoid sun 10am-4pm
 
 ---
 
-## 🌙 EVENING ROUTINE (25-30 min)
+## 🌙 EVENING ROUTINE (10-12 min)
+
+**Skin State:** Slightly damp skin (NOT soaking wet, NOT bone dry)
 
 1. **Cleanse** - CeraVe Hydrating Cleanser (removes SPF, pollution)
-2. **Wait 20 min** - Skin must be completely dry ⚠️ CRITICAL
-3. **Hyaluronic Acid** - The Ordinary 2% + B5 (apply to damp skin, wait 1-2 min)
-4. **Moisturize** - CeraVe Cream (face + body, generous layer)
-5. **Lip Repair** - Eucerin Lip Repair (thick layer before bed)
+   - Rinse with water
+   - **Pat dry** with towel (leave skin slightly damp)
+   - **No wait needed** (you don't use Tretinoin)
+
+2. **Hyaluronic Acid** - The Ordinary 2% + B5
+   - Apply to **slightly damp skin** (critical for HA to work)
+   - HA pulls water into skin - needs moisture to bind to
+   - Wait 1-2 min to absorb
+
+3. **Moisturize** - CeraVe Cream
+   - Apply to **face + body**
+   - Can apply to damp or dry skin
+   - Generous layer to seal in hydration
+
+4. **Lip Repair** - Eucerin Lip Repair
+   - Thick layer before bed
+   - Can apply to dry lips
 
 ---
 
@@ -58,7 +95,7 @@
 ## 💋 LIP CARE
 
 **Products:**
-- **AM/Day:** Eucerin Sun Protection Lip Balm SPF 30 (€6-8, Apotheke) - Mineral SPF, reapply after eating
+- **AM/Day:** Eucerin Lip Active SPF 20 (€6-8, Apotheke) - SPF 20 (lower than ideal 30), reapply frequently
 - **PM/Night:** Eucerin Lip Repair (€6-8, Apotheke) - 3% Urea + Ceramides
 
 **Usage:**
@@ -118,6 +155,34 @@
 - Month 3-4: Smoother texture, even tone  
 - Month 6+: Reduced fine lines, firmer skin  
 - Year+: Significant anti-aging
+
+---
+
+## 🧴 WET VS DRY SKIN GUIDE
+
+### **Why It Matters:**
+Different products need different skin states to work properly:
+
+| Product | Skin State | Why |
+|---------|-----------|-----|
+| **Cleanser** | Dry or damp | Works either way |
+| **Vitamin C** | **DRY** only | Water oxidizes it, reducing potency |
+| **Niacinamide** | Dry | Better absorption, no dilution |
+| **Hyaluronic Acid** | **DAMP** | Needs water to bind to; pulls from skin if too dry |
+| **Moisturizer** | Dry or damp | Seals in whatever is there |
+| **Sunscreen** | Dry | Better adhesion, even coverage |
+
+### **No 20-Minute Wait Needed:**
+**You don't use Tretinoin**, so you don't need the 20-minute drying time.
+- The wait is **only critical for Tretinoin** (causes irritation on wet skin)
+- Without retinoids: Just pat dry and continue
+- Slightly damp skin is actually BETTER for Hyaluronic Acid
+
+### **Quick Check:**
+After cleansing, pat with towel until:
+- **Not dripping** (too wet)
+- **Not tight/dry** (too dry)  
+- **Slightly tacky** (just right for HA)
 
 ---
 
